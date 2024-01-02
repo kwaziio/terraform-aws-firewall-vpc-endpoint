@@ -89,7 +89,7 @@ module "terraform_aws_firewall_vpc_endpoint" {
 
 The following example is provided as guidance, but can also be used for integration testing:
 
-* [https://github.com/kwaziio/terraform-aws-firewall-vpc-endpoint/tree/main/examples/complete](https://github.com/kwaziio/terraform-aws-firewallvpc-endpoint/tree/main/examples/complete)
+* [https://github.com/kwaziio/terraform-aws-firewall-vpc-endpoint/tree/main/examples/complete](https://github.com/kwaziio/terraform-aws-firewall-vpc-endpoint/tree/main/examples/complete)
 
 ### Deploying Complete Example as Integration Test
 
